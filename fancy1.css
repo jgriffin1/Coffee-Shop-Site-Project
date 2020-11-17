@@ -74,18 +74,6 @@ footer {
 	
 	
 }
-form {
-	
-	border-radius: 25px;
-	
-	background-position: left top;
-	background-repeat: repeat;
-	padding: 20px; 
-	width: 100%;
-	height: auto;  
-	line-height: 31px;
-	padding-left:13.5%;
-}
 canvas{
 		float: left;
 
